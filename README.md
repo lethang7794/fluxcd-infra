@@ -1,6 +1,6 @@
 # FluxCD demo
 
-This repository stores the **desired state**[^1] of a system managed by [GitOps] using [FluxCD].
+This repository stores the **desired state**[^1] of a system managed by [GitOps] using [FluxCD] [^2].
 
 ```bash
 ├── clusters
@@ -47,3 +47,4 @@ For more information, see [Get Started | FluxCD Docs]
 [Get Started | FluxCD Docs]: https://fluxcd.io/flux/get-started/
 
 [^1]: <https://github.com/open-gitops/documents/blob/v1.0.0/GLOSSARY.md#desired-state>
+[^2]: Flux in short: <https://fluxcd.io/flux/#flux-in-short>
